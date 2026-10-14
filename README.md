@@ -50,7 +50,10 @@ print(x)
 ### 5(a)
 <img width="400" height="400" alt="{4BD13730-4C95-4C34-AA59-BD215AFFBF16}" src="https://github.com/user-attachments/assets/5c275bf9-3cc1-4cf0-adb5-93f454c43930" />
 <img width="400" height="400" alt="{D826E3AD-2500-4826-B6A1-8D447B869D3D}" src="https://github.com/user-attachments/assets/ae9127b5-4347-4cf7-8647-fc8225f1b313" />
+
 ### 5(b)
+
+
 <img width="400" height="400" alt="{E93EA354-D2F4-43C3-9347-82D45B9929D2}" src="https://github.com/user-attachments/assets/c79e5f14-730c-4d9e-a155-33b6d09b301c" />
 <img width="400" height="400" alt="{ADD805FB-D354-4366-927F-7AA85B192EC4}" src="https://github.com/user-attachments/assets/39dcf363-a95b-4d32-8e20-0c8394e4a22c" />
 
