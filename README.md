@@ -9,15 +9,15 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 5(a)
-### step 1.import os and import numpy module to use the built in function
-### step 2. Read the input matrix perform LU decomposition to obtain the L and U
-### step 3. Read the right hand side matrix B and solve the system AX=B using LU decomposition
-### step 4. Display the L,U and the solve X matrices , then return the output
+### step 1. Import required import numpy and scipy libraries
+### step 2. Define the coefficient matrix(A) and the constant matrix(B)
+### step 3. Perform LU decomposition to split matrix (A) into lower triangular (L) and upper triangular(U) matrix
+### step 4. Display the L,U matrices
 5(b)
-### step 1.import os and import numpy module to use the built in function
-### step 2. Read the input matrix perform LU decomposition to obtain the L and U
-### step 3. Read the right hand side matrix B and solve the system AX=B using LU decomposition
-### step 4. Display the L,U and the solve X matrices , then return the output
+### step 1. Import required import numpy and scipy libraries
+### step 2. Define the coefficient matrix(A) and the constant matrix(B)
+### step 3. Perform LU decomposition to split matrix (A) into lower triangular (L) and upper triangular(U) matrix
+### step 4. Display the L,U matrices
 ## Program:
 (i) To find the L and U matrix
 ```
